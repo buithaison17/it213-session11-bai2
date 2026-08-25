@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.bai2.LlmCostCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-08-25T06:50:03.527Z" hostname="DESKTOP-MFF1I3E" time="0.809">
+  <properties/>
+  <testcase name="Kiểm tra serialize TraceMetadata sang Map và JSON String" classname="com.example.bai2.LlmCostCalculatorTest" time="0.735"/>
+  <testcase name="Test Case 1: input=15000, output=1200 cho gemini-2.5-flash" classname="com.example.bai2.LlmCostCalculatorTest" time="0.014"/>
+  <testcase name="Test Case 2: input=250000, output=45000 cho gemini-2.5-flash" classname="com.example.bai2.LlmCostCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
